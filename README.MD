@@ -6,9 +6,9 @@ Script para insertar json a una bdd en mongoDB.
 
 Requires [Node.js](https://nodejs.org/) v4+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies
 
 ```sh
-$ npm install -d
+$ npm install 
 $ node script.js
 ```
